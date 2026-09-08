@@ -1,3 +1,1 @@
-# Gosho-Slack-Bot
-# Gosho-Slack-Bot
-# Gosho-Slack-Bot
+#Slack Bot For HackClub
